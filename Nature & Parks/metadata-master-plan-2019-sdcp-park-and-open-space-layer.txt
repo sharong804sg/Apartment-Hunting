@@ -1,0 +1,33 @@
+# Metadata for Master Plan 2019 SDCP Park and Open Space layer
+---
+Identifier: 'ee3debbd-55c9-48b9-9347-d894abe4860d'
+Name: 'master-plan-2019-sdcp-park-and-open-space-layer'
+Title: 'Master Plan 2019 SDCP Park and Open Space layer'
+Description: 'Indicative polygon of Parks and Open Space in the Parks and Waterbodies
+  Plan. The Parks and Waterbodies Plan is a Special and Detailed Control Plan (SDCP)
+  which provides guidelines and controls for specific area of development.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'MP19'
+  - 'MP2019'
+  - 'Master Plan 2019 Parks and Waterbodies Plan'
+Publisher:
+  Name: 'Urban Redevelopment Authority'
+  Admin 1:
+    Name: 'Pamela Poh'
+    Department: 'URBAN REDEVELOPMENT AUTHORITY'
+    Email: 'pamela_poh@ura.gov.sg'
+Sources:
+  - 'Urban Redevelopment Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2021-08-24T08:22:00.218365'
+Resources:
+  -
+    Identifier: '155a6696-6dd6-4bcb-a266-084dd39b2ce0'
+    Name: 'master-plan-2019-sdcp-park-and-open-space-layer.kml'
+    Title: 'Master Plan 2019 SDCP Park and Open Space layer'
+    Url: 'https://data.gov.sg/dataset/ee3debbd-55c9-48b9-9347-d894abe4860d/resource/155a6696-6dd6-4bcb-a266-084dd39b2ce0/download/master-plan-2019-sdcp-park-and-open-space-layer.kml'
+    Format: 'KML'
+    Last Updated: '2021-08-24T08:22:00.203905'

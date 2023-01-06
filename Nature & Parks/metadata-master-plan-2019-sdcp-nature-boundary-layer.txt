@@ -1,0 +1,39 @@
+# Metadata for Master Plan 2019 SDCP Nature Boundary layer
+---
+Identifier: '5c2f5ddc-4ff7-4c26-bea1-9265151ea557'
+Name: 'master-plan-2019-sdcp-nature-boundary-layer'
+Title: 'Master Plan 2019 SDCP Nature Boundary layer'
+Description: 'Indicative polygon of boundary of Nature Reserve, National Park and
+  Nature Area in the Parks and Waterbodies Plan. The Parks and Waterbodies Plan is
+  a Special and Detailed Control Plan (SDCP) which provides guidelines and controls
+  for specific area of development.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'MP19'
+  - 'MP2019'
+  - 'Master Plan 2019 Parks and Waterbodies Plan'
+Publisher:
+  Name: 'Urban Redevelopment Authority'
+  Admin 1:
+    Name: 'Pamela Poh'
+    Department: 'URBAN REDEVELOPMENT AUTHORITY'
+    Email: 'pamela_poh@ura.gov.sg'
+Sources:
+  - 'Urban Redevelopment Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2020-01-25T00:08:37.023502'
+Resources:
+  -
+    Identifier: 'b5d5349b-4b55-4da5-b95f-96a12ac57e2f'
+    Title: 'Master Plan 2019 SDCP Nature Boundary layer (KML)'
+    Url: 'https://geo.data.gov.sg/up-g-mp19-pkwb-nature-pl/2019/12/12/kml/up-g-mp19-pkwb-nature-pl.kml'
+    Format: 'KML'
+    Last Updated: '2019-12-11T16:00:00'
+  -
+    Identifier: 'e24f8dd3-e616-4a72-abd0-74f573884a48'
+    Title: 'Master Plan 2019 SDCP Nature Boundary layer (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/up-g-mp19-pkwb-nature-pl/2019/12/12/geojson/up-g-mp19-pkwb-nature-pl.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2019-12-11T16:00:00'

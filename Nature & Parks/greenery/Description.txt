@@ -1,0 +1,7 @@
+This is a combination of Masterplan 2019 Nature Boundary and Parks & Open Spaces layers,
+including only existing spaces
+excluding waterbodies (from nature boundary layer)
+
+those areas from parks & open spaces are marked as Type: parks_os
+those areas from nature boundary are marked as Type: nature
+those areas in both are marked as Type: nature
